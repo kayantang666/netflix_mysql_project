@@ -205,3 +205,14 @@ SELECT
 FROM new_table
 GROUP BY 1;
 ```
+
+## Findings and Conclusions
+- **Content Type Distribution:** Netflix offers a wide variety of movies and TV shows spanning multiple genres and ratings.
+- **Rating Insights:** Analysis of common ratings reveals the primary target audiences for different types of content.
+- **Regional Trends:** Examining top-producing countries, including United States, highlights geographic patterns in content creation.
+- **Content Categorization:** Grouping titles by keywords provides a clearer picture of the types and themes of content available on the platform.
+  
+Overall, this analysis gives a detailed perspective on Netflix’s catalog, offering valuable insights that can support content planning and strategic decisions.
+
+## Created by - Ka Yan Tang
+This project is included in my portfolio to demonstrate my SQL and data analysis skills.
